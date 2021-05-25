@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "run": "node --inspect basic.js",
+    "start": "node --inspect basic.js",
     "test": "autocannon -c 2 localhost:3000"
   },
   "author": "",
